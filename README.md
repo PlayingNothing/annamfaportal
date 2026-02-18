@@ -26,3 +26,5 @@ Single-page React + Vite + Tailwind build for the MFA Intelligence Portal briefi
    - `git push -u origin main`
 3) In GitHub: `Settings` -> `Pages` -> `Build and deployment` -> set `Source` to `GitHub Actions`.
 4) After the push, the workflow in `.github/workflows/deploy-pages.yml` deploys the site automatically.
+
+test
