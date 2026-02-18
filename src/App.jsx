@@ -793,7 +793,7 @@ const NavigationCards = () => {
 const InterceptedFootage = ({
   videoUrl,
   label = 'INTERCEPTED FOOTAGE',
-  footerLabel = '[ TRAINING MODULE: The Sovereign State ]',
+  footerLabel = '[ INTERCEPT LOG: The public deconstruction of absolute borders. ]',
 }) => (
     <div className="my-8">
       <div className="bg-slate-900 border-2 border-red-500 rounded-lg p-2 relative breathing-glow cursor-red">
